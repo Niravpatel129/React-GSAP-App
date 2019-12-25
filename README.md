@@ -1,5 +1,5 @@
 Hosted at: http://gsap-practice-nirav.herokuapp.com
-
+![Farmers Market Finder Demo](demo/demo.gif)
 ## Available Scripts
 
 In the project directory, you can run:
