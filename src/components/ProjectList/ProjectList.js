@@ -78,30 +78,30 @@ class projectList extends Component {
             <div className="project-list">
               <div className="project p-1" onMouseEnter={this.onHover}>
                 <div className="project-title">
-                  <h1>Motionland</h1>
+                  <h1>Nirav</h1>
                 </div>
                 <div className="project-categ">Branding</div>
                 <div className="project-overlay 1"></div>
               </div>
               <div className="project p-2" onMouseEnter={this.onHover}>
                 <div className="project-title">
-                  <h1>Focus Reactive</h1>
+                  <h1>Fundamentals</h1>
                 </div>
                 <div className="project-categ">Photography</div>
                 <div className="project-overlay 2"></div>
               </div>
               <div className="project p-3" onMouseEnter={this.onHover}>
                 <div className="project-title">
-                  <h1>Aspect</h1>
+                  <h1>Snake</h1>
                 </div>
                 <div className="project-categ">Web Design</div>
                 <div className="project-overlay 3"></div>
               </div>
               <div className="project p-4" onMouseEnter={this.onHover}>
                 <div className="project-title">
-                  <h1>Logomark</h1>
+                  <h1>Cookie</h1>
                 </div>
-                <div className="project-categ">Branding</div>
+                <div className="project-categ">Snake Milking</div>
                 <div className="project-overlay 4"></div>
               </div>
             </div>
